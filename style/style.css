@@ -72,6 +72,13 @@ body {
   line-height: 122px;
   color: #020e35;
 }
+
+#img-jumbotron{
+  margin-bottom: 100px;
+  width: 85   0px;
+  height: 800px;
+}
+
 /* End Jumbotron */
 
 /* Contact */
@@ -90,6 +97,7 @@ body {
 .title-kolom-1-question {
   color: #020e35;
   font-weight: 350;
+  margin-top: 150px;
 }
 
 .hear {
@@ -235,6 +243,11 @@ font-size: 40px;
   margin-top: 150px;
 }
 
+#img-card{
+  width: 288px;
+  height: 200px;
+}
+
 .container-card{
   display: flex;
   justify-content: center;
@@ -313,26 +326,80 @@ margin-bottom: 100px;
   width: 100%;
 }
 
-#img {
-  margin: 0px;
-  padding: -90px;
+
+
+#img-store{
+  height: 100px;
+  width: 900p;
 }
 
-/* .container-fluid{
-  background-color: #72ACBE;
-  margin: 20px;
-} */
 
-/* #ig{
-  margin: -90px;
-  size: 20px;
-} */
+/* style product */
+#img-product{
+  margin-bottom: 200px;
+  margin-left: 100px;
+}
 
-/* body {
-  background: hsl(0, 0, 94%);
-} */
+.judul-product{
+  margin-right: 200px;
+}
+
+#bagian-product{
+  margin-top: 100px;
+  text-align: center;
+  margin-bottom: 90px;
+}
+
+#Product{
+  color: #fff;
+}
+
+#deskripsi-product{
+  color: #fff;
+}
+/* end style product */
+
+/* Contact */
+#hubungi-kami{
+  text-align: center;
+  margin-top: 90px;
+}
+/* End Contact */
 
 
+footer h5 {
+  border-radius: nullpx;
+  margin-left: 50px;
+  color: #fff;
+  font-weight: 700;
+}
+footer p {
+  color: #234cad;
+  margin-left: 100px;
+  border-radius: nullpx;
+}
+footer ul li {
+  color: #234cad;
+  margin-left: 50px;
+  border-radius: nullpx;
+}
+.list-unstyled li a {
+  text-decoration: none;
+}
+.list-unstyled li a:hover {
+  text-decoration: underline;
+}
 
+#copyright{
+  margin-top: 100px;
+  text-align: center;
+  margin-left: 20px;
+}
 
+#icon{
+  height: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
 
